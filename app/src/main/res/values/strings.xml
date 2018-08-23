@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+
+    <string name="main_title">To Do List</string>
+    <string name="main_listIsNull">The List is Empty</string>
+    <string name="main_newNote">Add New Note</string>
+    <string name="main_nothing_to_save">Nothing To Save</string>
+    <string name="main_delete">Delete</string>
+    <string name="main_deleteDialog_message">Item Will Be Delete</string>
+    <string name="main_deleteDialog_positive_button">Delete</string>
+    <string name="main_deleteDialog_negative_button">Cancel</string>
+
+    <string name="addNote_title">Add New Note</string>
+    <string name="addNote_title_hint">Title</string>
+    <string name="addNote_enterSomething_hint">Enter Something …</string>
+    <string name="addNote_save">Save</string>
+
+    <string name="editNote_title">Edit Note</string>
+</resources>

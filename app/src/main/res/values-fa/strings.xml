@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">لیست روزانه</string>
+
+    <string name="main_title">لیست روزانه</string>
+    <string name="main_listIsNull">لیست خالی است</string>
+    <string name="main_newNote">افزودن نوشته جدید</string>
+    <string name="main_delete">حذف</string>
+    <string name="main_nothing_to_save">چیزی برای ذخیره وجود ندارد</string>
+    <string name="main_deleteDialog_message">مورد حذف خواهد شد</string>
+    <string name="main_deleteDialog_positive_button">حذف</string>
+    <string name="main_deleteDialog_negative_button">لغو</string>
+
+    <string name="addNote_title">افزودن نوشته جدید</string>
+    <string name="addNote_title_hint">موضوع</string>
+    <string name="addNote_enterSomething_hint">چیزی بنویسید …</string>
+    <string name="addNote_save">ذخیره</string>
+
+    <string name="editNote_title">ویرایش نوشته</string>
+</resources>
